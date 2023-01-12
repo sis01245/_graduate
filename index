@@ -21,7 +21,7 @@
             height: 720px;
             border-radius: 20px;
             border : 2px solid black;
-            background-image: url('대학원 연구 포트폴리오_1.jpg');
+            background-image: url('대학원 연구 포트폴리오_1.png');
             background-position: center;
             background-size: cover;
         }
@@ -30,7 +30,7 @@
             height: 720px;
             border-radius: 20px;
             border : 2px solid black;
-            background-image: url('대학원 연구 포트폴리오_2.jpg');
+            background-image: url('대학원 연구 포트폴리오_2.png');
             background-position: center;
             background-size: cover;
             margin-top: 30px;
@@ -40,7 +40,7 @@
             height: 720px;
             border-radius: 20px;
             border : 2px solid black;
-            background-image: url('대학원 연구 포트폴리오_3.jpg');
+            background-image: url('대학원 연구 포트폴리오_3.png');
             background-position: center;
             background-size: cover;
             margin-top: 30px;
@@ -50,7 +50,7 @@
             height: 720px;
             border-radius: 20px;
             border : 2px solid black;
-            background-image: url('대학원 연구 포트폴리오_4.jpg');
+            background-image: url('대학원 연구 포트폴리오_4.png');
             background-position: center;
             background-size: cover;
             margin-top: 30px;
@@ -60,7 +60,7 @@
             height: 720px;
             border-radius: 20px;
             border : 2px solid black;
-            background-image: url('대학원 연구 포트폴리오_5.jpg');
+            background-image: url('대학원 연구 포트폴리오_5.png');
             background-position: center;
             background-size: cover;
             margin-top: 30px;
@@ -70,7 +70,7 @@
             height: 720px;
             border-radius: 20px;
             border : 2px solid black;
-            background-image: url('대학원 연구 포트폴리오_6.jpg');
+            background-image: url('대학원 연구 포트폴리오_6.png');
             background-position: center;
             background-size: cover;
             margin-top: 30px;
